@@ -1,0 +1,7 @@
+C:\green_mess\Green_Mess\Green_Mess\ARM\Debug\Green_Mess.androidproj.AssemblyReference.cache
+C:\green_mess\Green_Mess\Green_Mess\ARM\Debug\Green_Mess.apk.recipe
+C:\green_mess\Green_Mess\Green_Mess\ARM\Debug\Green_Mess.apk.recipe.merged
+C:\green_mess\Green_Mess\Green_Mess\ARM\Debug\Package\AndroidManifest.xml
+C:\green_mess\Green_Mess\Green_Mess\ARM\Debug\FileStringReplace.incremental
+C:\green_mess\Green_Mess\Green_Mess\ARM\Debug\Green_Mess.apk
+C:\green_mess\Green_Mess\Green_Mess\ARM\Debug\Green_Mess.lastsuccessfuldeploy
