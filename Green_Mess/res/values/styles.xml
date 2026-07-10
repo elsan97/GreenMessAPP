@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <style name="AppTheme" parent="android:Theme.Holo.NoActionBar">
-        <!-- Тёмно-зелёный статус бар -->
-        <item name="android:colorPrimaryDark">#0b1a0e</item>
-    </style>
-</resources>

@@ -1,3 +1,0 @@
-# view AndroidManifest.xml #generated:7
--keep class com.Green_Mess.Green_Mess { <init>(...); }
-
