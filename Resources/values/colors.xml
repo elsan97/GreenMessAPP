@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- Основной цвет (шапка, если она есть) -->
+	<color name="colorPrimary">#14331a</color>
+
+	<!-- ТА САМАЯ ПОЛОСКА СВЕРХУ (Статус-бар) -->
+	<!-- Сделаем её очень тёмно-зелёной, как фон твоего чата -->
+	<color name="colorPrimaryDark">#0b1a0e</color>
+
+	<!-- Цвет акцентов (салатовый, как в твоём CSS) -->
+	<color name="colorAccent">#adff2f</color>
+</resources>
